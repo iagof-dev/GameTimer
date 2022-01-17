@@ -1,0 +1,10 @@
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.vbproj.AssemblyReference.cache
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.admin.resources
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.Form1.resources
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.Login_Admin.resources
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.Resources.resources
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.vbproj.GenerateResource.cache
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.AssemblyInfoInputs.cache
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.AssemblyInfo.vb
+C:\Users\N3rdy\source\repos\GameTimer\GameTimer\obj\Debug\netcoreapp3.1\GameTimer.vbproj.CoreCompileInputs.cache
